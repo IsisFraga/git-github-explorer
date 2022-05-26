@@ -1,5 +1,9 @@
 import { RepositoryItem } from "./RepositoryItem";
 
+import '../styles/repositories.scss'
+
+// https://api.github.com/users/IsisFraga/repos
+
 const repository = {
   name: 'Git-Github-Explorer',
   description: 'Learning React',
